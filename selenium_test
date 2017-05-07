@@ -8,4 +8,5 @@ browser.find_element_by_id('kw').send_keys('honglin')
 time.sleep(1)
 browser.find_element_by_id('su')
 time.sleep(1)
+#close
 browser.quit()
