@@ -10,3 +10,4 @@ browser.find_element_by_id('su')
 time.sleep(1)
 #close
 browser.quit()
+#game over
